@@ -19,4 +19,4 @@ a complete solution provider of software development, computer networking and en
 
 [Refernces](https://learn.saylor.org/course/view.php?id=73&gclid=Cj0KCQjwr4eYBhDrARIsANPywCifJDOibjUCUGKOkUiGOcNrYFTCezAVbbrJm32Aj-VrP4Gbv0bKzpsaAvKjEALw_wcB)
 [Refernces](https://ca.indeed.com/jobs?q=Intermediate+Software+Developer&redirected=1&vjk=5bfd19aa94296287)
-[Refernces](https://www.linkedin.com/company/advanced-software-development/about/)
+[Refernces](https://www.linkedin.com/company/advanced-software-development/about/)      
