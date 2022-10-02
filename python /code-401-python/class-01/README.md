@@ -1,25 +1,27 @@
-## For prep 1   
-**we Created a Reading Notes Repo**
-i already had one
-## For prep 2
-**Engineering Readings**
-What are 3 things I'll start doing to "un-stick" myself whenever I get stuck on tough piece of code, logic, or feature?
+## Part 1   
+**Data structure**
+data structures, which are the different ways that we can organize our data; variables, arrays, hashes, and objects are all types of data structures
 
-Try a solution.
-If that doesn't work, try another one.
-If that doesn't work, repeat step 2 until you luck out.
-What's the one thing I bring to this career (and a potential employer) that nobody else can?
+**Linear data structures**
+which means that there is a sequence and an order to how they are constructed and traversed
 
-Problems solving
 
-Text only submission
-## For prep 3
-**Confirm Slack, GitHub Setup**
-i already did that
+**Memory management**
+The biggest differentiator between arrays and linked lists is the way that they use memory in our machines
 
-## For prep 4
-**Python SoloLearn**
-i did it 
-## For prep 5
-**Jupyter Lab assignment**
-i finished the installation
+
+**Parts of a linked list**
+A linked list is made up of a series of nodes, which are the elements of the list
+
+
+
+## Part 2
+**Linked lists**
+Linked lists are super simple, but they seem to have this reputation of being fairly complicated
+
+**what even is Big O?**
+But Big O is really all over and omnipresent within computer science
+
+[Refernce](https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d#.cik9aowxq)
+
+[Refernce](https://medium.com/basecs/whats-a-linked-list-anyway-part-2-131d96f71996)
