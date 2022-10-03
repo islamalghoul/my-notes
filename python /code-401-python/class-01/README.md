@@ -1,3 +1,5 @@
+[MainPage](../../../README.md)
+
 ## Part 1   
 **Data structure**
 data structures, which are the different ways that we can organize our data; variables, arrays, hashes, and objects are all types of data structures
