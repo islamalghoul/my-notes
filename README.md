@@ -13,4 +13,9 @@ this website for tracking our work in this course.
 
 # Code 401 - Advanced Software Development
 [read1](/python/code-401-python/class-01)
+
+
 [read2](/python/code-401-python/class-02)
+
+
+[read3](python/code-401-python/class-03/README.md)
