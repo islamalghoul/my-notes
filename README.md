@@ -19,3 +19,5 @@ this website for tracking our work in this course.
 
 
 [read3](python/code-401-python/class-03/README.md)
+
+[read4](python/code-401-python/class-04/README.md)
