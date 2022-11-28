@@ -4,6 +4,8 @@ If I want to loop through an array and display  each value in JSX, how do I do t
 Each list item needs a unique ____key
 What is the purpose of a key? to open or lock a door, or to start or stop the engine of a vehicle
 ## The Spread Operator
+
+
 What is the spread operator? a new addition to the set of operators in JavaScript ES6
 List 4 things that the spread operator can do.spread operator is useful for many different routine tasks in JavaScript, including the following:
 Copying an array.
