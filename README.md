@@ -64,5 +64,17 @@ this website for tracking our work in this course.
 
 [read25](python/code-401-python/class-25/README.md)
 
+[read26](python/code-401-python/class-26/README.md)
 
+[read27](python/code-401-python/class-27/README.md)
 
+[read28](python/code-401-python/class-28/README.md)
+
+[read29](python/code-401-python/class-29/README.md)
+
+[read30](python/code-401-python/class-30/README.md)
+[read31](python/code-401-python/class-31/README.md)
+[read32](python/code-401-python/class-32/README.md)
+[read33](python/code-401-python/class-33/README.md)
+[read34](python/code-401-python/class-34/README.md)
+[read35](python/code-401-python/class-35/README.md)
