@@ -1,5 +1,5 @@
 [MainPage](../../../README.md)
-# What is global state with React?
+# global state 
 Role of the global state
 In React, originally, the state is held and modified within the same React component. In most applications, different components may need to access and update the same state. This is achieved by introducing the global states in your app. The main purpose of the global state is to share a state among multiple components.
 
