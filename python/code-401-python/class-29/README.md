@@ -18,3 +18,4 @@ You need to pass down a callback function for a higher-level component to know t
 Notice that the pushed App method is passed as a property (prop) to the Clock component, accessed as this.prop.callback. A new final line, number 18, in alterOffset calls it with this.props.callback().
 State traveling sideways
 Various sub-components need to communicate updates between them. This can be achieved by passing state, using callback, up to a common parent component, and then passing it back down.
+.
