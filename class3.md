@@ -19,3 +19,4 @@ Converting NodeList to an array.
 Give an example of using the spread operator to combine two arrays. You can use either the spread operator [... array1, ... array2] , or a functional way []. concat(array1, array2) to merge 2 or more arrays.
 Give an example of using the spread operator to add a new item to an array. allows us to quickly copy all or part of an existing array or object into another array or object.
 Give an example of using the spread operator to combine two objects into one Use a spread operator ( ... ) Use the Object. assign() method.
+//test
